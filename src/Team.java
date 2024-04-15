@@ -63,6 +63,8 @@ public class Team {
     }
 
 
+
+
     @Override
     public String toString() {
         return String.format(Locale.getDefault(), "%s\nWins: %d, Losses: %d, Ties: %d\nTotal goals: %d, Goals Allowed: %d\n",
